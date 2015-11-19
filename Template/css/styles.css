@@ -1,0 +1,196 @@
+/* Estilos CSS */
+body{
+    margin:0 auto;
+    font-family:arial;
+    background:#f5f3f0;
+}
+
+.header{
+    height:127px;
+    background:#090909;
+}
+
+.container{
+    width:960px;
+    margin:0 auto;
+}
+
+
+.caja{
+    float:left;
+}
+.logo{
+    font-family:arial;
+    color:#777;
+    margin-bottom:10px;
+    letter-spacing:3px;
+    font-size:37px;
+    margin-bottom:0;
+    
+}
+
+.logo span{
+    color:#00c7eb;
+    
+}
+
+
+.imagen{
+    float:right;
+    height:127px;
+}
+
+.slogan{
+    font-size:15px;
+    color:#bbb;
+    margin:0;
+}
+
+.menu{
+    clear: both;
+    float:right;
+    margin-bottom:0;
+    margin-top:0;
+    
+}
+.barra{
+    background:#303030;
+    height:42px;
+    clear:both;
+    border-bottom:4px solid #00b8d9;
+}
+
+.menu li{
+    font-family:serif;
+    font-weight:bold;
+    list-style:none;
+    float:left;
+    margin:5px;
+    padding:5px 10px 10px 10px;
+   
+    
+    
+}
+.menu a{
+    color:#fff;
+    text-decoration:none;
+    border-bottom:0;
+}
+
+.menu li:hover, .menu li.active{
+    background:#00b8d9;
+    border-radius:5px 5px 0px 0px;
+}
+
+
+   h3{
+     font-family:serif;
+     color:#342f28;
+     font-weight:normal;
+     font-size:20px;
+     border-bottom:1px solid #CDC6B5;
+     text-transform:uppercase;
+     
+   }
+   
+   
+   p{
+      
+       color:#635b53;
+       font-size:13px;
+       line-height:17px;
+       font-family:'lucidasans';
+   }
+   
+.contenedor{
+    width:960px;
+    clear:both;
+    margin:0 auto;
+
+}
+
+ .columna1{
+    width:650px;
+    float:left;
+    box-sizing:border-box;
+    padding-right:25px;
+
+    
+ }
+ .columna1 li{
+     list-style-type:square;
+ }
+ 
+ 
+ .columna2{
+    width:310px; 
+    float:right;
+    box-sizing:border-box;
+    padding-left:25px;
+     
+     
+ }
+
+.columna2 span{
+   font-size:12px;
+}
+
+ a{
+     color:#342f28;
+     font-size:12px;
+     border-bottom:dashed 1px #342f28;
+     text-decoration:none;
+  
+  }
+  
+  .columna2 ul li{
+       list-style-image:url(../img/arrow.png);
+  }
+
+.footer{
+    clear:both;
+    height:100px;
+    background:#313131;
+    text-align:center;
+    border-top:#00B8D8 solid 4px;
+    
+}
+
+.footer ul li{
+    display:inline-block;
+    border-right:10px;
+    margin-left:5px;
+    margin-right:5px;
+    border-right:#a8aa94 solid 1px;
+    padding-right:10px;
+}
+
+.footer a{
+
+    color:#a8aa94;
+    font-size:12px;
+    border-bottom:dotted 1px #a8aa94;
+    
+    }
+.footer a:hover{
+    color:#fff;
+    border-bottom:dotted 1px #fff;
+}
+
+.footer li:last-child{
+    border-right:0px;
+}
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
