@@ -1,0 +1,69 @@
+body{
+
+   background-image:url(http://1.bp.blogspot.com/-KAkUoGF3Xq8/Uv5dB_Y9e1I/AAAAAAAAdvA/SeP3Q-NrMZU/s1600/Fondos+de+Pantalla+Gratis+Abstractos+%25283%2529.jpg);
+}
+h2{
+    color:#4798CD;
+    text-transform:uppercase;
+    border-bottom:1px solid #4398CE;
+    font-size:25px;
+    padding-bottom:5px;
+    margin-bottom:15px;
+}
+table{
+    width:100%;
+    
+}
+table tr{
+  border-bottom:1px solid #ccc;
+}
+table td{
+    padding:5px 10px;
+}
+table tr:first-child {
+    border-top:1px solid #ccc;
+}
+
+table td:first-child{
+    color:gray;
+}
+table td .fa-user{
+    color:#AEA2D4;
+}
+table td .fa-calendar{
+    color:#D27878;
+}
+table td .fa-mobile{
+    color:#83CEE1;
+    
+}
+table td .fa-envelope-o{
+    color:#DECC8A;
+}
+.line1{
+    border-top:10px #AEA2D0 solid;
+
+}
+.line2{
+    border-top:10px #D47A7A solid;
+}
+h3 .fa-star{
+    color:#B0A5CF;
+}
+h3 .fa-lightbulb-o{
+    color:#D47A7C;
+}
+h3 .fa-desktop{
+    color:#B4D6A4;
+}
+h3 .fa-heart{
+    color:#83CEE3;
+}
+.line3{
+    border-bottom:10px #B4D6A3 solid;
+    padding-top:30px;
+}
+.line4{
+    border-bottom:10px #83CEE1 solid;
+    padding-bottom:30px;
+}
