@@ -7,9 +7,9 @@ body{
    font-family:serif;
 }
 h2{
-    color:#4798CD;
+    color:#fff;
     text-transform:uppercase;
-    border-bottom:1px solid #4398CE;
+    border-bottom:1px solid #fff;
     font-size:25px;
     padding-bottom:5px;
     margin-bottom:15px;
@@ -30,20 +30,20 @@ table tr:first-child {
 }
 
 table td:first-child{
-    color:#ccc;
+    color:#FF0080;
 }
 table td .fa-user{
-    color:#AEA2D4;
+    color:#FF00FF;
 }
 table td .fa-calendar{
-    color:#D27878;
+    color:#DF0101;
 }
 table td .fa-mobile{
-    color:#83CEE1;
+    color:#2E9AFE;
     
 }
 table td .fa-envelope-o{
-    color:#DECC8A;
+    color:#FAAC58;
 }
 .line1{
     border-top:10px #AEA2D0 solid;
@@ -53,16 +53,16 @@ table td .fa-envelope-o{
     border-top:10px #D47A7A solid;
 }
 h3 .fa-star{
-    color:#B0A5CF;
+    color:#FF00FF;
 }
 h3 .fa-lightbulb-o{
-    color:#D47A7C;
+    color:#DF0101;
 }
 h3 .fa-desktop{
-    color:#B4D6A4;
+    color:#31B404;
 }
 h3 .fa-heart{
-    color:#83CEE3;
+    color:#2E9AFE;
 }
 .line3{
     border-bottom:10px #B4D6A3 solid;
