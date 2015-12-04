@@ -3,6 +3,8 @@ body{
    background-image:url(http://1.bp.blogspot.com/-KAkUoGF3Xq8/Uv5dB_Y9e1I/AAAAAAAAdvA/SeP3Q-NrMZU/s1600/Fondos+de+Pantalla+Gratis+Abstractos+%25283%2529.jpg);
    background-attachment:fixed;
    background-repeat:no-repeat;
+   color:#fff;
+   font-family:serif;
 }
 h2{
     color:#4798CD;
@@ -21,13 +23,14 @@ table tr{
 }
 table td{
     padding:5px 10px;
+
 }
 table tr:first-child {
     border-top:1px solid #ccc;
 }
 
 table td:first-child{
-    color:gray;
+    color:#ccc;
 }
 table td .fa-user{
     color:#AEA2D4;
@@ -68,4 +71,8 @@ h3 .fa-heart{
 .line4{
     border-bottom:10px #83CEE1 solid;
     padding-bottom:30px;
+}
+span{
+    font-style:italic;
+    text-decoration:underline;
 }
