@@ -30,13 +30,13 @@ table tr:first-child {
 }
 
 table td:first-child{
-    color:#FF0080;
+    color:#5BD6D1;
 }
 table td .fa-user{
     color:#FF00FF;
 }
 table td .fa-calendar{
-    color:#DF0101;
+    color:#DA8C8C;
 }
 table td .fa-mobile{
     color:#2E9AFE;
@@ -76,7 +76,4 @@ span{
     font-style:italic;
     text-decoration:underline;
 }
-i .fa-info-circle{
-    color:#90180;
-    
-}
+
